@@ -1,5 +1,7 @@
 # flux2-kustomize-helm-example
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/6d0df3c5-d2eb-4eb3-8f4c-b01e33e07ef4.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/flux2-kustomize-helm-example?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/da68768a-bef8-485e-9890-ea44f767da86.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/flux2-kustomize-helm-example?orgId=561911742905)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/09e7cbb3-36cd-425e-b3fe-1a78f4da30c1.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/flux2-kustomize-helm-example?orgId=561911742905)  
+
 [![test](https://github.com/fluxcd/flux2-kustomize-helm-example/workflows/test/badge.svg)](https://github.com/fluxcd/flux2-kustomize-helm-example/actions)
 [![e2e](https://github.com/fluxcd/flux2-kustomize-helm-example/workflows/e2e/badge.svg)](https://github.com/fluxcd/flux2-kustomize-helm-example/actions)
 [![license](https://img.shields.io/github/license/fluxcd/flux2-kustomize-helm-example.svg)](https://github.com/fluxcd/flux2-kustomize-helm-example/blob/main/LICENSE)
